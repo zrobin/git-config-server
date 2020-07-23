@@ -2,4 +2,4 @@ data:
   env: config-client-dev
   user:
     username: client-user
-    password: 12345
+    password: 12
